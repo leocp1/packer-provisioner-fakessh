@@ -1,0 +1,9 @@
+{
+  "type": "fakessh",
+  "script": "testdata/fakessh.sh",
+  "max_retries" : 5
+},
+{
+  "type": "shell",
+  "script": "testdata/shell.sh"
+}
